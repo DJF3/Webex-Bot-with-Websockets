@@ -80,4 +80,6 @@ ______________ *ABOVE: C/D/E/F only if you use Pipenv* ______________
 
 # More Webex Development resources?
 
+Article: "[Using Websockets with the Webex JavaScript SDK](https://developer.webex.com/blog/using-websockets-with-the-webex-javascript-sdk)"
+
 Go to [cs.co/webexdevinfo](http://cs.co/webexdevinfo)
