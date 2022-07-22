@@ -51,7 +51,7 @@ python_version = "3.9"
 - Your prompt changes to indicate you are in the "isolated" setup.
 
 NOTE: When you start the bot, you need to be in the Pipenv shell. Otherwise, it will not have the right libraries available.
-alternatively: type ```pipenv run python webex-bot-ngrok.py```
+alternatively: type ```pipenv run python webex-bot-ws.py```
 This directly runs the python code inside the pipenv environment. 
 
 ______________ *ABOVE: C/D/E/F only if you use Pipenv* ______________
