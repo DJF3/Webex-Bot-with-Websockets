@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/DJF3/Webex-Bot-with-Ngrok)
 # Webex-Bot-with-Websockets
 Basic example of a Webex bot that uses Websockets to communicate with the cloud. Great for testing and 'behind the firewall' deployments.
 
