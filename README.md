@@ -78,3 +78,6 @@ ______________ *ABOVE: C/D/E/F only if you use Pipenv* ______________
 - **I don't want to/can use Websockets** check out my alternative solution: [Webex Bot using Ngrok](https://github.com/DJF3/Webex-Bot-with-Ngrok)
 
 
+# More Webex Development resources?
+
+Go to [cs.co/webexdevinfo](http://cs.co/webexdevinfo)
